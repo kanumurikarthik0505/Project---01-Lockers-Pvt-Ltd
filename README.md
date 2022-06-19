@@ -1,4 +1,6 @@
-First Assessment, Company Lockers Pvt. Ltd. Project objective:
+**First Assessment, Company Lockers Pvt. Ltd. Project objective:**
+
+
 As a Full Stack Developer, complete the features of the application by planning the development in terms of sprints and then push the source code to the GitHub repository. As this is a prototyped application, the user interaction will be via a command line.
 Sprints:
 Sprint number: 3 (Timebox 1 week 1 sprint) Product story : Collect the requirement such that the user story is: Independent Negotiable Valuable Estimable Small Testable.
