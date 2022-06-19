@@ -114,6 +114,3 @@ Search and Sort techniques: Data structures used for the project
 Specification document: Any open-source document or Google Docs
 
 List of core concepts Array lists Collections Exception handling Bubble sort Print writer Array File IO operations File handlers/functions
-
-![image](https://user-images.githubusercontent.com/105636736/174468197-48be2364-f5fa-487b-8dba-fc34e0c97100.png)
-
